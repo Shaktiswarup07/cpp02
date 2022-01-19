@@ -9,7 +9,7 @@ int main(){
     
     for(int i=0;i<d;i++){
         cin>>a>>b;
-        cout<<a+b<<endl;
+        cout<<"The sum is "<< a+b<<endl;
 
     }
 
