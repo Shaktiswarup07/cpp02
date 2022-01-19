@@ -9,7 +9,7 @@ int main(){
     
     for(int i=0;i<d;i++){
         cin>>a>>b;
-        cout<<"The diff is "<< a-b<<endl;
+        cout<<"The Diff is "<< a-b<<endl;
 
     }
 
